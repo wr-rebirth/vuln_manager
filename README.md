@@ -31,29 +31,29 @@
 
 ### 界面
 
-![img/image-20250509185457585](image-20250509185457585.png)
+![https://github.com/wr-rebirth/vuln_manager/blob/main/img/image-20250509185457585](https://github.com/wr-rebirth/vuln_manager/blob/main/img/image-20250509185457585.png)
 
 ### 数据导入导出
 
 -   下载模板
 -   导入数据
 
-![img/image-20250509190631242](image-20250509190631242.png)
+![https://github.com/wr-rebirth/vuln_manager/blob/main/img/image-20250509190631242](https://github.com/wr-rebirth/vuln_manager/blob/main/img/image-20250509190631242.png)
 
 -   数据模板
 
-![img/image-20250509190756855](image-20250509190756855.png)
+![https://github.com/wr-rebirth/vuln_manager/blob/main/img/image-20250509190756855](https://github.com/wr-rebirth/vuln_manager/blob/main/img/image-20250509190756855.png)
 
 ### 模糊匹配搜索
 
-![img/image-20250509185607110](image-20250509185607110-6789458.png)
+![https://github.com/wr-rebirth/vuln_manager/blob/main/img/image-20250509185607110](https://github.com/wr-rebirth/vuln_manager/blob/main/img/image-20250509185607110.png)
 
 ### 漏洞历史记录跟踪
 
 -   会根据导入数据的资产/漏洞名称等信息生成唯一的vuln_Id
 -   根据vuln_id后台生成漏洞历史记录表
 
-![img/image-20250509185826850](image-20250509185826850.png)
+![https://github.com/wr-rebirth/vuln_manager/blob/main/img/image-20250509185826850](https://github.com/wr-rebirth/vuln_manager/blob/main/img/image-20250509185826850.png)
 
 ## 设计思路
 
