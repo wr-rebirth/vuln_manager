@@ -2,6 +2,7 @@
 frontend/node_modules
 
 # 环境变量文件
+.history
 .env
 .env.local
 
